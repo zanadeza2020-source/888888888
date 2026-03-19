@@ -21,8 +21,9 @@ const TelegramAnalytics = {
   // ────────────────────────────────────────────────────
 
   _isConfigured() {
-    return this.BOT_TOKEN !== 'YOUR_BOT_TOKEN_HERE' &&
-           this.CHAT_ID   !== 'YOUR_CHAT_ID_HERE';
+    return this.BOT_TOKEN !== '6238470351:AAEnXpTDD3fGPaj4X7lW_79GxC06FM1Xv8s
+' &&
+           this.CHAT_ID   !== '1350971290';
   },
 
   // ── Main init — called after user consent ────────────
